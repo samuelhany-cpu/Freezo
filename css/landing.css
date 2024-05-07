@@ -272,6 +272,9 @@ hr{
     position: relative;
     left: 5rem;
 }
+footer{
+    display: block;
+}
 .footer-content{
     display: flex;
     justify-content: space-between;
